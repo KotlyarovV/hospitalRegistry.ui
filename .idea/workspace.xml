@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="05ba70fb-bc98-4452-9c32-527e20847abf" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZlFZ3dv07mNaITiHCpPhb23qsf" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
+    <property name="ts.external.directory.path" value="C:\Users\Vitaly\AppData\Local\JetBrains\WebStorm 2019.3.4\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="npm run start" />
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="start" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.start" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="05ba70fb-bc98-4452-9c32-527e20847abf" name="Default Changelist" comment="" />
+      <created>1585405826241</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585405826241</updated>
+      <workItem from="1585405866569" duration="10843000" />
+      <workItem from="1585516903732" duration="2127000" />
+      <workItem from="1585570496595" duration="9362000" />
+      <workItem from="1585906946191" duration="19922000" />
+      <workItem from="1586017641261" duration="598000" />
+      <workItem from="1586026214643" duration="10900000" />
+      <workItem from="1586198729513" duration="1565000" />
+      <workItem from="1586263366046" duration="5615000" />
+      <workItem from="1586275254740" duration="597000" />
+      <workItem from="1586276735070" duration="8451000" />
+      <workItem from="1586352485740" duration="13042000" />
+      <workItem from="1586376378191" duration="4526000" />
+      <workItem from="1586420976005" duration="5678000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1899" height="282" key="GridCell.Tab.0.bottom" timestamp="1585431036572">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1585431036572" />
+    <state width="1899" height="282" key="GridCell.Tab.0.center" timestamp="1585431036571">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1585431036571" />
+    <state width="1899" height="282" key="GridCell.Tab.0.left" timestamp="1585431036571">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1585431036571" />
+    <state width="1899" height="282" key="GridCell.Tab.0.right" timestamp="1585431036571">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1585431036571" />
+    <state x="758" y="173" key="SettingsEditor" timestamp="1586263685798">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="758" y="173" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1586263685798" />
+    <state x="616" y="240" width="672" height="677" key="run.anything.popup" timestamp="1585419036256">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="240" width="672" height="677" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1585419036256" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1586378798244">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1586378798244" />
+  </component>
+</project>
